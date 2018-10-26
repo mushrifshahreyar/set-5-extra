@@ -68,7 +68,6 @@ void main(int argc,char *argv[])
 		}
 		else if(c == 'i')
 		{
-			printf("i\n");
 			inorder_print(a,n,0);
 		}
 		else
